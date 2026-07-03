@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Console Chess (C++)
 
 A complete, playable console chess game in C++17 — Human vs Human or Human vs AI —
@@ -73,3 +74,7 @@ compile command for `cl.exe` if using Visual Studio directly).
 - Improve AI evaluation (piece-square tables, mobility, king safety)
 - Add iterative deepening / a transposition table (hash map) for a stronger AI
 - Save/load games (PGN-style notation) using file I/O
+=======
+# console-chess-cpp
+Chess app project
+>>>>>>> cb52a92963a90c144b210958a8928ca6bdee04e8
